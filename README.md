@@ -10,7 +10,7 @@
 </div>
 
 # 💫 About Me:
-I am a passionate Data Scientist from India <img src="https://media.giphy.com/media/9Gnbm29r7ftUA/giphy.gif" width="30"><br><br>I’m currently working on [Air Pressure System fault detection system](https://github.com/SatyaNerurkar/aps-fault-detection)<br><br> Exploring the deep sea of Artificial Intelligence and machine learning.<br><br>In my free time, I solve problems on GeeksforGeeks, DataLemur and read tech articles.<br><br>Ask me about **Python, SQL, Statistics and machine learning**.<br><br>How to reach me **nerurkarsatya@gmail.com**
+I am a passionate Data Scientist from India <img src="https://media.giphy.com/media/9Gnbm29r7ftUA/giphy.gif" width="30"><br><br>I’m currently working on [Insurance premium prediction system](https://github.com/SatyaNerurkar/Insurance-premium-prediction)<br><br> Exploring the deep sea of Artificial Intelligence and machine learning.<br><br>In my free time, I solve problems on GeeksforGeeks, DataLemur and read tech articles.<br><br>Ask me about **Python, SQL, Statistics and machine learning**.<br><br>How to reach me **nerurkarsatya@gmail.com**
 
 
 ## 🌐 Socials:
